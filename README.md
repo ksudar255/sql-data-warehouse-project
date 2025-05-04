@@ -26,11 +26,11 @@ This project involves:
 
  ## Important Tools:
 
-**Datasets**: Access to the project dataset (csv files).
-**SQL Server Express**: Lightweight server for hosting your SQL database.
-**SQL Server Management Studio (SSMS)**: GUI for managing and interacting with databases.
-**Git Repository**: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-**DrawIO**: Design data architecture, models, flows, and diagrams.
+1. **Datasets**: Access to the project dataset (csv files).
+2. **SQL Server Express**: Lightweight server for hosting your SQL database.
+3. **SQL Server Management Studio (SSMS)**: GUI for managing and interacting with databases.
+4. **Git Repository**: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+5. **DrawIO**: Design data architecture, models, flows, and diagrams.
 
 ## Project Requirements
 
